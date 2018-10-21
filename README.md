@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi!
+
+Watashi eigo nigate dakara tyotto sou totemo tyotto gannbatta.
